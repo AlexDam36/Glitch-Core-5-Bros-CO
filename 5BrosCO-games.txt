@@ -1,0 +1,1 @@
+Juego isométrico de arena donde un cuadrado usa dash attacks para generar golpes consecutivos. Mientras mejor sea el timing, más impactos causa. Los jugadores compiten por puntuación y comparten resultados en el Discord de La Cueva del #Lime.
